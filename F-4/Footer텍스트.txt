@@ -1,0 +1,17 @@
+===========================================================================
+D : Footer
+===========================================================================
+
+▶Copyright 텍스트
+
+All pictures cannot be copied without permission.
+TEL : 000-111-1234 C.P : 010-1234-5678
+Copyright 2021. WEB DESIGN copyright all right reserved.
+
+
+▶패밀리 사이트 텍스트
+
+FamilySite
+패밀리사이트1
+패밀리사이트2
+패밀리사이트3
